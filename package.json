@@ -1,0 +1,19 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chesster14/ExpressNotes.git"
+  },
+  "author": "Tod Winchester",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chesster14/ExpressNotes/issues"
+  },
+  "homepage": "https://github.com/Chesster14/ExpressNotes#readme"
+}
