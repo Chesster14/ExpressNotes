@@ -5,8 +5,6 @@ Professional Note Taker
 
 
 
-## Screen recording:
-![Screen recording]https://app.screencastify.com/manage/videos/PPMEFPVvHDaPRcrQWd45
 
 ## Table of Contents:
 
@@ -17,9 +15,7 @@ Professional Note Taker
 
 
 ## Information
-
-Scalable Vector Graphics (SVG)
-SVG images are defined in a vector graphics format and stored in XML text files. SVG images can thus be scaled in size without loss of quality, and SVG files can be searched, indexed, scripted, and compressed. The XML text files can be created and edited with text editors or vector graphics editors, and are rendered by the most-used web browsers.
+Open the ExpressNotes server so you are presented with a landing page with a link to your notes page.  Click the link to go to your ExpressNotes page where you will begin to take and store notes for your small business. Your notes will be listed on the left column with the right side blank and available to enter new notes. After you have entered your new notes, then click the save button to add your most recent notes to the left coloumn to view at a later time. Click on your saved noted to view them in the right column.  When you click on the write icon, you can add to your current notes or start a new note.
 
 ## Installation
     Git clone <URL> & npm i
